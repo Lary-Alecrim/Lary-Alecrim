@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou a Lary Alecrim 🌸</h1>
+<h1>Olá! Eu sou  Lary Alecrim 🌸</h1>
 
 🎓 Estudante de Informática e apaixonada por resolver problemas com lógica e criatividade.  
 🔧 Atualmente focada em **desenvolvimento Back-end** com **Java** e **Spring Boot**.  
